@@ -1,0 +1,44 @@
+# Python virtual environments
+venv/
+backend/venv/
+interview_ai_env/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VS Code
+.vscode/
+
+# Node modules
+node_modules/
+jspm_packages/
+
+# Build files
+dist/
+build/
+out/
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db

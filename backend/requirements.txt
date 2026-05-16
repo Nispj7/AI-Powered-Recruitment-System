@@ -1,0 +1,29 @@
+flask==3.0.3
+flask-cors==4.0.1
+sqlite-utils==3.37
+python-dotenv==1.0.1
+
+transformers==4.44.2
+torch>=2.2.0
+
+librosa==0.10.2.post1
+soundfile==0.12.1
+numpy==1.26.4
+
+openai==1.40.6
+
+
+Toyota@2026
+Toyota@2026
+rxnn shwf mpaf fqwk
+
+
+frontend -npm run dev
+backend -pythin app.py
+
+
+ super admin login 
+username - admin
+password-123456
+
+ annacheck once  once u get back adn text me if there is anything anna

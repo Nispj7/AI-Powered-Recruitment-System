@@ -1,0 +1,12 @@
+AI-driven assessment framework--> Emotional intelligence and ethical decision logic
+
+MFCC->Mel-frequency Cepstral Coefficients
+
+System architecture:
+1. Chatbot--> NLP sentiment and emotion analysis(DistilBERT)
+2. Audio or speech signals--> MFCC
+3. both modalities are fused--> Weighted fusion strategy
+4. ethical decision layer has three 3 layers which are:
+1. Stress thresholds
+2. modality conflict check
+3. Human-in-loop safeguards before generating a recommendation
